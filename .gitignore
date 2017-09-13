@@ -1,2 +1,10 @@
 node_modules
-www/bundle.js
+.idea
+*.iml
+dist
+npm-debug.log
+shots
+.DS_Store
+/.env
+/reports/
+yarn.lock
